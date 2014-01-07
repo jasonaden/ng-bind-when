@@ -1,0 +1,72 @@
+
+<div class="container">
+    <div class="row header">
+        <div class="span12"><h2>ngBindWhen</h2></div>
+    </div>
+    <div class="row">
+        <div class="span12">
+            <h3>Overview</h3>
+            <p>This small package is designed to defer the watch cycle of AngularJS. It was created to give developers
+            fine-grained control over when AngularJS executes code to determine whether a bound or interpolated
+            variable should be updated.</p>
+            <div class="bs-example">
+                <pre class="html"><span ng-non-bindable>
+                    &lt;div class="row" ng-repeat="item in items"&gt;
+                        &lt;div class="span3"&gt;{{item.name}}&lt;/div&gt;
+                        &lt;div class="span3"&gt;{{item.description}}&lt;/div&gt;
+                        &lt;div class="span3"&gt;{{item.cost | currency}}&lt;/div&gt;
+                        &lt;div class="span3"&gt;{{item.date | date}}&lt;/div&gt;
+                    &lt;/div&gt;</span></pre>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="span8"></div>
+        <div class="span4"></div>
+    </div>
+    <div class="row">
+        <div class="span8"></div>
+        <div class="span4"></div>
+    </div>
+    <div class="row">
+        <div class="span8"></div>
+        <div class="span4"></div>
+    </div>
+</div>
+
+<button type="button" data-ng-click="model.bindIt = !model.bindIt">Turn it {{model.bindIt && 'Off' || 'On'}}!</button>
+
+
+        <div class="row">
+
+        </div>
+
+<div class="jumbotron" ng-bind-when="model.bindIt">
+
+
+    <input type="text" ng-model="model.myVariable"/>
+
+    <div>Here is the value: {{model.myVariable}}</div>
+    <!--<div>Here is the value (no interpolation): <span data-ng-bind="model.myVariable"></span></div>-->
+
+    <div>
+        Repeater:
+        <span data-ng-repeat="item in list track by $index">{{model.myVariable}}</span>
+    </div>
+
+    <!--<div ng-bind-when="model.bindIt2">
+        <button type="button" data-ng-click="model.bindIt2 = !model.bindIt2">Turn 2 {{model.bindIt2 && 'Off' || 'On'}}!</button>
+        Second one: {{model.myVariable}}
+    </div>-->
+
+    <!--<div ng-bind-when="model.bindIt && model.bindIt2">When both are active: {{model.myVariable}}</div>-->
+
+
+</div>
+
+        <div class="container" ng-bind-when="model.bindIt">
+            <div class="row" data-ng-repeat="item in repeatIt">
+                <div class="span3">{{ item.title }}</div>
+                <div class="span3">{{ item.description }}</div>
+            </div>
+        </div>

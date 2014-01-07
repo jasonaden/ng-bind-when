@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74906a55-f187-44bd-bf04-fc191ba24a03" name="Default" comment="" />
+    <ignored path="angular-bind-when.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/interpolateDecorator.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388511302135" ignored="false" />
+    <file path="/main.html" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388517983711" ignored="false" />
+    <file path="/main.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388510291061" ignored="false" />
+    <file path="/main.scss" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388788637591" ignored="false" />
+    <file path="$PROJECT_DIR$/../cameo-web/web/components/angular/angular.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1387657102066" ignored="false" />
+    <file path="/dummy.xml" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388676166979" ignored="false" />
+    <file path="/app.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388843307644" ignored="false" />
+    <file path="/index.html" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388842023216" ignored="false" />
+    <file path="$PROJECT_DIR$/../ng-conf-2013/app/views/main.html" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388327809364" ignored="false" />
+    <file path="$PROJECT_DIR$/../ng-conf-2013/app/scripts/directives/directives.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388873250453" ignored="false" />
+    <file path="$PROJECT_DIR$/../ng-conf-2013/app/scripts/working-directives.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1387725606277" ignored="false" />
+    <file path="$PROJECT_DIR$/../ng-conf-2013/app/index.html" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1387748512889" ignored="false" />
+    <file path="$PROJECT_DIR$/../ng-conf-2013/app/scripts/controllers/main.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388323418178" ignored="false" />
+    <file path="/directives.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388873250453" ignored="false" />
+    <file path="/Dummy.txt" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388666015548" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular-spotlight/LICENSE" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1387740869824" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular-spotlight/Gruntfile.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1387741921510" ignored="false" />
+    <file path="/Gruntfile.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1387741921510" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular-spotlight/demo/index.html" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388842023216" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular-spotlight/package.json" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1387741764596" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular-spotlight/karma.conf.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1387741798388" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular-spotlight/bower.json" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1387741869978" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular-spotlight/src/angular-spotlight.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388842994698" ignored="false" />
+    <file path="/angular-spotlight.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388842973884" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular-spotlight/test/unit/angular-spotlight-spec.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1387742296835" ignored="false" />
+    <file path="/angular-spotlight-spec.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1387742293638" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular-spotlight/demo/app.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388843308270" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular-spotlight/src/angular-spotlight.css" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1387744689713" ignored="false" />
+    <file path="/angular-spotlight.css" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1387744688642" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular-spotlight/template/angular-spotlight-match.html" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1387745062009" ignored="false" />
+    <file path="/angular-spotlight-match.html" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1387745061649" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular-spotlight/src/template/angular-spotlight.html" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1387745412739" ignored="false" />
+    <file path="/angular-spotlight.html" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388843349188" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular-spotlight/template/angular-spotlight.html" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388843349188" ignored="false" />
+    <file path="/web.py" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388669662896" ignored="false" />
+    <file path="$PROJECT_DIR$/../cameo-web/web.py" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388669665123" ignored="false" />
+    <file path="$PROJECT_DIR$/../cameo-web/web/modules/notification.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388502213864" ignored="false" />
+    <file path="/notification.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1387814731793" ignored="false" />
+    <file path="$PROJECT_DIR$/../cameo-web/web/css/main.scss" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388788675971" ignored="false" />
+    <file path="/a.dummy" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388762120591" ignored="false" />
+    <file path="/campaigns.html" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388672913715" ignored="false" />
+    <file path="$PROJECT_DIR$/../cameo-web/web/partials/campaigns.html" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388674163161" ignored="false" />
+    <file path="$PROJECT_DIR$/../cameo-web/web/partials/recently-visited.html" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388502213864" ignored="false" />
+    <file path="/recently-visited.html" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1387817447689" ignored="false" />
+    <file path="$PROJECT_DIR$/../cameo-web/web/partials/importMigrations.html" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388502213864" ignored="false" />
+    <file path="/importMigrations.html" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1387817467217" ignored="false" />
+    <file path="/cell.html" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388790613581" ignored="false" />
+    <file path="$PROJECT_DIR$/../cameo-web/web/partials/cell.html" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388790616569" ignored="false" />
+    <file path="$PROJECT_DIR$/../cameo-web/web/modules/campaign/campaign.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1387821653524" ignored="false" />
+    <file path="/campaign.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1387821633090" ignored="false" />
+    <file path="$PROJECT_DIR$/../cameo-web/web/modules/cpData.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388072109427" ignored="false" />
+    <file path="/cpData.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1387822517728" ignored="false" />
+    <file path="$PROJECT_DIR$/../foodrun-html/app/scripts/app.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388427318663" ignored="false" />
+    <file path="$PROJECT_DIR$/../foodrun-html/app/scripts/services/hoods.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388427318663" ignored="false" />
+    <file path="$PROJECT_DIR$/../cameo-web/web/modules/search/cpSearch.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388072133839" ignored="false" />
+    <file path="$PROJECT_DIR$/../cameo-web/web/modules/cell/cell.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388791214691" ignored="false" />
+    <file path="$PROJECT_DIR$/../cameo-web/web/modules/ui-components/megatypeahead.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388506181005" ignored="false" />
+    <file path="$PROJECT_DIR$/../cameo-web/web/partials/search.html" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388502213864" ignored="false" />
+    <file path="/search.html" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388072881972" ignored="false" />
+    <file path="/campaign.html" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388154172384" ignored="false" />
+    <file path="$PROJECT_DIR$/../cameo-web/web/partials/campaign.html" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388502213864" ignored="false" />
+    <file path="/cells.html" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388074452991" ignored="false" />
+    <file path="$PROJECT_DIR$/../cameo-web/web/partials/campaign/cells.html" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388502213864" ignored="false" />
+    <file path="$PROJECT_DIR$/../cameo-web/web/js/cpCameoConfig.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388088881941" ignored="false" />
+    <file path="$PROJECT_DIR$/../cameo-web/web/modules/ui-components/cp-campaign-info.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388091271981" ignored="false" />
+    <file path="/cp-campaign-info.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388091271005" ignored="false" />
+    <file path="$PROJECT_DIR$/../cameo-web/web/css/main.css" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388788766112" ignored="false" />
+    <file path="/HTML Fragment (cp-campaign-info.js:240).html" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388082075741" ignored="false" />
+    <file path="$PROJECT_DIR$/../cameo-web/web/index.html" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388778779234" ignored="false" />
+    <file path="$PROJECT_DIR$/../cameo-web/web/modules/utilities.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388502213864" ignored="false" />
+    <file path="/utilities.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388154066221" ignored="false" />
+    <file path="/cpCameoConfig.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388088453304" ignored="false" />
+    <file path="$PROJECT_DIR$/../cameo-web/web/modules/campaign/campaigns.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388087286454" ignored="false" />
+    <file path="/campaigns.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388087153419" ignored="false" />
+    <file path="$PROJECT_DIR$/../cameo-web/web/js/app.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388773710093" ignored="false" />
+    <file path="$PROJECT_DIR$/../cameo-web/web/partials/campaign/assets.html" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388502213864" ignored="false" />
+    <file path="/assets.html" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388087568845" ignored="false" />
+    <file path="/HTML Fragment (cp-campaign-info.js:743).html" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388090850450" ignored="false" />
+    <file path="$PROJECT_DIR$/../cameo-web/web/partials/campaign/prioritize.html" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388150666909" ignored="false" />
+    <file path="/install.html" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388150732664" ignored="false" />
+    <file path="$PROJECT_DIR$/../cameo-web/web/partials/campaign/install.html" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388502213864" ignored="false" />
+    <file path="$PROJECT_DIR$/../cameo-web/web/modules/cp-Translate/translations.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388502213864" ignored="false" />
+    <file path="$PROJECT_DIR$/../cameo-web/web/modules/data-utilities.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388408319471" ignored="false" />
+    <file path="/data-utilities.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388175754651" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular-spotlight/demo/css/demo.scss" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388608628824" ignored="false" />
+    <file path="/demo.scss" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388590354726" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular-spotlight/demo/css/demo.css" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388608706262" ignored="false" />
+    <file path="/working-directives.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388327982290" ignored="false" />
+    <file path="$PROJECT_DIR$/../ng-conf-2013/app/styles/main.scss" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388329151903" ignored="false" />
+    <file path="$PROJECT_DIR$/../ng-conf-2013/.tmp/styles/main.css" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388872905001" ignored="false" />
+    <file path="/filters.html" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388498232936" ignored="false" />
+    <file path="$PROJECT_DIR$/../cameo-web/web/partials/filters.html" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388502213864" ignored="false" />
+    <file path="$PROJECT_DIR$/../cameo-web/web/modules/config/filterConfig.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388434453308" ignored="false" />
+    <file path="$PROJECT_DIR$/../cameo-web/web/modules/filterers.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388502213864" ignored="false" />
+    <file path="/filterers.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388498201458" ignored="false" />
+    <file path="$PROJECT_DIR$/../foodrun-html/app/views/restaurant.html" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388428319525" ignored="false" />
+    <file path="$PROJECT_DIR$/../foodrun-html/app/scripts/services/utilities.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388427318663" ignored="false" />
+    <file path="$PROJECT_DIR$/../foodrun-html/app/scripts/directives/interactions.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388427318663" ignored="false" />
+    <file path="$PROJECT_DIR$/../foodrun-html/app/scripts/services/cart.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388427318663" ignored="false" />
+    <file path="$PROJECT_DIR$/../foodrun-html/app/index.html" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388428319525" ignored="false" />
+    <file path="$PROJECT_DIR$/../foodrun-html/app/scripts/controllers/account.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388428319525" ignored="false" />
+    <file path="/account.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388427791600" ignored="false" />
+    <file path="$PROJECT_DIR$/../foodrun-html/app/scripts/vendor/angular-1.2.6/angular-route.min.js.map" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388428319525" ignored="false" />
+    <file path="$PROJECT_DIR$/../foodrun-html/app/scripts/vendor/angular-1.2.6/angular-route.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388428319525" ignored="false" />
+    <file path="$PROJECT_DIR$/../foodrun-html/app/scripts/vendor/angular-1.2.6/angular-route.min.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388428319525" ignored="false" />
+    <file path="$PROJECT_DIR$/../cameo-web/web/partials/campaign/multi-edit.html" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388677731677" ignored="false" />
+    <file path="/multi-edit.html" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388677731381" ignored="false" />
+    <file path="$PROJECT_DIR$/../cameo-web/web/modules/campaign/multi-edit.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388502213864" ignored="false" />
+    <file path="/multi-edit.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388436607506" ignored="false" />
+    <file path="$PROJECT_DIR$/../cameo-web/web/modules/cell/criteria.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388776736300" ignored="false" />
+    <file path="$PROJECT_DIR$/../cameo-web/web/modules/glossary.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388502213864" ignored="false" />
+    <file path="/megatypeahead.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388506165006" ignored="false" />
+    <file path="/criteria.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388775516065" ignored="false" />
+    <file path="$PROJECT_DIR$/../cameo-web/web/modules/ui-components/cp-paging-service.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388675002599" ignored="false" />
+    <file path="/cell.js" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388790839369" ignored="false" />
+    <file path="/main.css" changelist="74906a55-f187-44bd-bf04-fc191ba24a03" time="1388788629256" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="angular-bind-when" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="interpolateDecorator.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/scripts/decorators/interpolateDecorator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="17" selection-start="556" selection-end="556" vertical-scroll-proportion="0.26373628">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/main.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="45" selection-start="1009" selection-end="1009" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/styles/main.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="21" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="0" selection-start="636" selection-end="636" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="prettify.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/google-code-prettify/prettify.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="341" selection-start="12757" selection-end="12757" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="45" column="19" selection-start="1973" selection-end="1973" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/controllers/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="47" selection-start="412" selection-end="412" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1388510295000" expanded="true" signature="98:443" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gruntfile.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="8" selection-start="904" selection-end="904" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Gruntfile.js" />
+        <option value="$PROJECT_DIR$/app/styles/main.scss" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/scripts/app.js" />
+        <option value="$PROJECT_DIR$/app/scripts/controllers/main.js" />
+        <option value="$PROJECT_DIR$/app/scripts/decorators/interpolateDecorator.js" />
+        <option value="$PROJECT_DIR$/app/views/main.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1920" />
+    <option name="height" value="1058" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-bind-when" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-bind-when" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-bind-when" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-bind-when" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-bind-when" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-bind-when" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-bind-when" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-bind-when" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-bind-when" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-bind-when" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-bind-when" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="decorators" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-bind-when" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-bind-when" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-bind-when" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-bind-when" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower_components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="FullScreen" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74906a55-f187-44bd-bf04-fc191ba24a03" name="Default" comment="" />
+      <created>1387651078525</created>
+      <updated>1387651078525</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1920" height="1058" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Heroku" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24934107" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Pomodoro" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Runner" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/bower_components/angular/angular.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8150" column="66" selection-start="282802" selection-end="282816" vertical-scroll-proportion="-4.730769" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="18" selection-start="885" selection-end="885" vertical-scroll-proportion="0.33259913">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bower_components/es5-shim/tests/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/google-code-prettify/run_prettify.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/google-code-prettify/prettify.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="45" selection-start="1009" selection-end="1009" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="21" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="0" selection-start="636" selection-end="636" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/google-code-prettify/prettify.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="341" selection-start="12757" selection-end="12757" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="19" selection-start="1973" selection-end="1973" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="47" selection-start="412" selection-end="412" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1388510295000" expanded="true" signature="98:443" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="8" selection-start="904" selection-end="904" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/decorators/interpolateDecorator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="17" selection-start="556" selection-end="556" vertical-scroll-proportion="0.26373628">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
